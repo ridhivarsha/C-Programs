@@ -58,3 +58,4 @@ This folder contains C programs focused on mastering **nested loops** (`for` and
 * **`Reading and printing arrays.c`** – Accepting array elements from user and printing them.
 * **`Sum of Array Elements.c`** – Calculating the sum of all elements stored in an array.
 * **`Average of Array Elements.c`** – Finding the average of the elements in an array.
+* **`Max of Arrays.c`** – Takes an array of numbers from the user and finds the maximum element.
