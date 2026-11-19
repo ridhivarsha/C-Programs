@@ -8,7 +8,7 @@ Wrote my first few programs today to get used to basic C syntax and `printf`:
 - More on Printing tricks like printing string inside ' '.
 
 
-
+________________________________________________________________________________________________
 
 
 # Day 2 - Learning about Conditional Statements and Loops in C Programming
@@ -33,6 +33,7 @@ This repo contains the practice problems I solved on Day 2 of learning C. Today 
 * *Prime numbers* – Checking whether a number is prime or not.
 * *Count digits in an integer* – Counting how many digits are in a given number.
 
+__________________________________________________________________________________________________________
 
 
 # Day 3: Star and Number Patterns in C
@@ -59,3 +60,38 @@ This folder contains C programs focused on mastering **nested loops** (`for` and
 * **`Sum of Array Elements.c`** – Calculating the sum of all elements stored in an array.
 * **`Average of Array Elements.c`** – Finding the average of the elements in an array.
 * **`Max of Arrays.c`** – Takes an array of numbers from the user and finds the maximum element.
+
+
+________________________________________________________________________________________________________________
+
+
+# Day 4: Switch Cases, Arrays, and Strings 
+
+This folder contains a collection of C programs covering `switch-case` statements, 1D arrays, and string manipulation (both with and without standard library functions).
+
+##  Program List
+
+###  Switch Case Programs
+* **`Display the course name using switch case.c.c`** – Prints a specific course name based on user input using a `switch` statement.
+* **`Display the day of the week using switch case.c`** – Takes a number (1–7) and displays the corresponding day of the week.
+* **`Display the grade using switch case.c`** – Evaluates marks or grade characters to output the corresponding grade description.
+
+###  Array Programs
+* **`Reverse an Array.c.c`** – Reverses the elements of a given array.
+* **`average of array divisible by both 2 and 3.c`** – Calculates the average of array elements that are divisible by both 2 and 3 (i.e., divisible by 6).
+
+###  String Programs (Using Built-in Functions)
+* **`Find the length of the string.c`** – Finds the total length of a string using `strlen()`.
+* **`Reverse a string.c`** – Reverses a string using built-in string functions.
+* **`Reading and Displaying a String with Spaces Using scanf().c`** – Demonstrates how to read multi-word strings with spaces using scansets (`%[^\n]`) in `scanf()`.
+
+###  String Programs (Without Built-in Functions)
+* **`To print string without inbuilt functions.c`** – Iterates through a character array to print a string manually.
+* **`To Find the Length of a String Without Using Inbuilt Functions.c`** – Counts characters until the null terminator (`\0`) to determine string length.
+* **`Reverse a string without inbuilt functions.c`** – Reverses a string manually using index swapping.
+* **`Uppercase to lowercase.c`** – Converts uppercase characters in a string to lowercase using ASCII manipulation.
+* **`Lowercase to uppercase.c`** – Converts lowercase characters in a string to uppercase using ASCII manipulation.
+* **`Count the Occurrence of a Given Character in a String.c`** – Counts how many times a specific character appears in a string.
+* **`Number of vowels in a string.c`** – Counts the total number of vowels (`a, e, i, o, u`) in a string.
+* **`Number of Consonants in the string.c`** – Counts the total number of consonants in a string.
+* **`To count number of words in a string.c`** – Counts the total number of words in a sentence by tracking spaces.
